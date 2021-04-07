@@ -15,7 +15,7 @@ This introduces the project
 Sample website with plenty of files for demos
 
 ## How to contribute
-dddd
+Please fork this repository then issue pull 
 
 ## Deployment
 
