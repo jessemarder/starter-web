@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jesse Marder jessemar@gmmm
 
 # THANKS
 
