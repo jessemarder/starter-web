@@ -6,7 +6,9 @@ Simple change
 
 ## Introduction
 
+Another paragraph here
 This introduces the project
+
 
 ## Purpose
 
