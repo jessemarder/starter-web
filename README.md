@@ -20,3 +20,7 @@ dddd
 ## Deployment
 
 More updats here
+
+### Copyright
+
+Training notice
