@@ -9,6 +9,7 @@ Simple change
 Another paragraph here
 This introduces the project
 
+Some more text here. 
 
 ## Purpose
 
