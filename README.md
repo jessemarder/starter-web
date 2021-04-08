@@ -27,5 +27,6 @@ More updats here
 Training notice
 Another attempt
 
+All rights reserved!
 
 More training edits 2021
